@@ -1,0 +1,2 @@
+torrent-parser==0.4.1
+tqdm==4.65.0
